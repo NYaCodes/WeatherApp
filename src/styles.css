@@ -1,0 +1,26 @@
+h1 {
+  color: blue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.search-box {
+  background-color: transparent;
+  border-radius: 5px;
+  border-style: solid;
+  position: relative;
+  right: -5px;
+  box-sizing: 400px;
+}
+.border {
+  border: dotted;
+  border: dashed;
+  border-width: 2px 2px;
+  border-radius: 10% / 50%;
+  border-spacing: 5px;
+}
+.emojis:hover {
+  font-size: 90px;
+  transition: 300ms ease-in;
+}
+.sub-container {
+  font-family: Arial, Helvetica, sans-serif;
+}
